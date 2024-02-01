@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto+Mono:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 130px;
+}
+
+.left-part {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 444px;
+
+
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+li>a {
+    width: 121px;
+    color: #000;
+    text-align: center;
+    text-shadow: 0px 7px 4px rgba(55, 26, 171, 0.60);
+    font-family: Roboto Mono;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    gap: 72px;
+
+
+}
+
+header>div>img {
+    width: 257px;
+    height: 51px;
+}
+
+main {
+    
+    width: 677px;
+    height: 599px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Yashil-box {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 8px 24px 0px #2FC63C;
+}
+
+.Och-seriy {
+    width: 150px;
+    height: 150px;
+
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.20);
+}
+
+.Oq {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+}
+
+.Och-qora {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+}
+
+.Toq-oq {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+}
+
+.Qizil {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 3px 8px 0px #F00;
+}
+
+.Kok {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+}
+
+.Seriy {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.66);
+}
+.BOX {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    gap: 119px;
+    
+    
+   
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
